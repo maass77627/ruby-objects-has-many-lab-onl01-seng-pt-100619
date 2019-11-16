@@ -22,7 +22,7 @@ class Song
     @artist
   end 
   
- def artist_name
+ def artist_name(name)
     self.artist.name
   end
     
